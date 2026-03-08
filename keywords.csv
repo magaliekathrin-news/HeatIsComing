@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'+heat climate change',en,Causes,#00ffff,#00ffff,3,0.053149580281310914
+'+heat climate change',en,Causes,#00ffff,#00ffff,3,0.0531495802813109
 '+warm spell',en,Hazard,#ff0000,#ff0000,3,0.0489296102237932
-'+heat wave',en,Hazard,#ff0000,#ff0000,3,0.0456045137323219
 '+heat drink',en,Mitigation,#00ff00,#00ff00,3,0.0441063622705767
+'+heat wave',en,Hazard,#ff0000,#ff0000,3,0.04311943167247362
 '+heat air condition',en,Adaptation,#0000ff,#0000ff,3,0.0422274466907786
 '+heat stroke',en,Impacts,#ffff00,#ffff00,3,0.0419742473768231
