@@ -33,8 +33,8 @@ the summer,the summer,DATE,,,en,19.400000000000006
 night,night,TIME,,,en,19.000000000000014
 Today,Today,DATE,,,en,19.000000000000007
 Consent Framework,Consent Framework,WORK_OF_ART,,,en,18.900000000000002
-Australian,Australian,NORP,,,en,18.300000000000008
 Indian,Indian,NORP,,,en,18.300000000000008
+Australian,Australian,NORP,,,en,18.300000000000008
 days,days,DATE,,,en,17.800000000000008
 thousands,thousands,CARDINAL,,,en,17.70000000000001
 third,third,ORDINAL,,,en,17.500000000000004
@@ -58,13 +58,13 @@ American,American,NORP,,,en,13.700000000000005
 late June,late June,DATE,,,en,13.100000000000005
 the coming days,the coming days,DATE,,,en,12.700000000000003
 afternoon,afternoon,TIME,,,en,12.400000000000004
-2022,2022,DATE,,,en,12.200000000000003
 British,British,NORP,,,en,12.200000000000003
+2022,2022,DATE,,,en,12.200000000000003
 years,years,DATE,,,en,12.100000000000003
 a week,a week,DATE,,,en,12.000000000000002
 century-old,century-old,DATE,,,en,11.900000000000004
-40C,40C,CARDINAL,,,en,11.700000000000003
 four,four,CARDINAL,,,en,11.700000000000003
+40C,40C,CARDINAL,,,en,11.700000000000003
 1,1,CARDINAL,,,en,11.600000000000001
 yesterday,yesterday,DATE,,,en,11.500000000000002
 250th,250th,ORDINAL,,,en,11.5
@@ -75,34 +75,34 @@ German,German,NORP,,,en,11.100000000000001
 Europeans,Europeans,NORP,,,en,10.900000000000002
 the day,the day,DATE,,,en,10.700000000000001
 2023,2023,CARDINAL,,,en,10.7
-2024,2024,DATE,,,en,10.600000000000001
 Fourth of July,Fourth of July,DATE,,,en,10.600000000000001
-24 hours,24 hours,TIME,,,en,10.500000000000002
+2024,2024,DATE,,,en,10.600000000000001
 this month,this month,DATE,,,en,10.500000000000002
+24 hours,24 hours,TIME,,,en,10.500000000000002
 annual,annual,DATE,,,en,10.350000000000001
 Thousands,Thousands,CARDINAL,,,en,10.300000000000002
-week,week,DATE,,,en,10.200000000000001
 Five,Five,CARDINAL,,,en,10.200000000000001
+week,week,DATE,,,en,10.200000000000001
 morning,morning,TIME,,,en,10.100000000000001
 fifth,fifth,ORDINAL,,,en,9.900000000000002
 fourth,fourth,ORDINAL,,,en,9.9
 2003,2003,DATE,,,en,9.600000000000001
 half,half,CARDINAL,,,en,9.5
 40,40,CARDINAL,,,en,9.5
-six,six,CARDINAL,,,en,9.3
 8,8,CARDINAL,,,en,9.3
+six,six,CARDINAL,,,en,9.3
 Italian,Italian,NORP,,,en,9.299999999999999
 the weekend,the weekend,DATE,,,en,9.2
 recent days,recent days,DATE,,,en,9.0
-January,January,DATE,,,en,9.0
-Brits,Brits,NORP,,,en,9.0
 September,September,DATE,,,en,9.0
+Brits,Brits,NORP,,,en,9.0
+January,January,DATE,,,en,9.0
 28,28,CARDINAL,,,en,8.999999999999996
 African,African,NORP,,,en,8.799999999999999
 season,season,DATE,,,en,8.599999999999998
 Chinese,Chinese,NORP,,,en,8.5
-nights,nights,TIME,,,en,8.5
 Two,Two,CARDINAL,,,en,8.5
+nights,nights,TIME,,,en,8.5
 6,6,CARDINAL,,,en,8.4
 last month,last month,DATE,,,en,8.299999999999999
 April,April,DATE,,,en,8.299999999999999
@@ -181,10 +181,10 @@ overnight,overnight,TIME,,,en,5.1
 week-long,week-long,DATE,,,en,5.0
 84,84,CARDINAL,,,en,5.0
 July 3,July 3,DATE,,,en,5.0
-early morning,early morning,TIME,,,en,5.0
-"more than 10,000","more than 10,000",CARDINAL,,,en,5.0
 Dutch,Dutch,NORP,,,en,5.0
+"more than 10,000","more than 10,000",CARDINAL,,,en,5.0
 the French Open,the French Open,EVENT,,,en,5.0
+early morning,early morning,TIME,,,en,5.0
 "around 1,000","around 1,000",CARDINAL,,,en,5.0
 later this week,later this week,DATE,,,en,4.9
 tens of thousands,tens of thousands,CARDINAL,,,en,4.8999999999999995
@@ -234,227 +234,227 @@ Mexican,Mexican,NORP,,,en,4.0
 recent weeks,recent weeks,DATE,,,en,4.0
 the holiday weekend,the holiday weekend,DATE,,,en,4.0
 Melbourne Park,Melbourne Park,FAC,0.0891955266955267,3.4079365079365083,en,3.8999999999999995
-17,17,CARDINAL,,,en,3.8999999999999995
 winters,winters,DATE,,,en,3.8999999999999995
-a day,a day,DATE,,,en,3.8
-2019,2019,DATE,,,en,3.8
-40°,40°,MONEY,,,en,3.8
+17,17,CARDINAL,,,en,3.8999999999999995
 tens of millions,tens of millions,CARDINAL,,,en,3.8
-2016,2016,DATE,,,en,3.8
+a day,a day,DATE,,,en,3.8
+40°,40°,MONEY,,,en,3.8
 Canadians,Canadians,NORP,,,en,3.8
-Western,Western,NORP,,,en,3.7
-Week,Week,DATE,,,en,3.7
-holiday weekend,holiday weekend,DATE,,,en,3.7
-a few days,a few days,DATE,,,en,3.7
-the month of May,the month of May,DATE,,,en,3.7
-more than half,more than half,CARDINAL,,,en,3.7
+2016,2016,DATE,,,en,3.8
+2019,2019,DATE,,,en,3.8
 +12 chars,+12 chars,WORK_OF_ART,,,en,3.7
-May day,May day,DATE,,,en,3.7
 2001,2001,DATE,,,en,3.7
+a few days,a few days,DATE,,,en,3.7
+Western,Western,NORP,,,en,3.7
+May day,May day,DATE,,,en,3.7
+more than half,more than half,CARDINAL,,,en,3.7
+the month of May,the month of May,DATE,,,en,3.7
+holiday weekend,holiday weekend,DATE,,,en,3.7
 July Fourth,July Fourth,DATE,,,en,3.7
-the Australian Open,the Australian Open,EVENT,,,en,3.5999999999999996
+Week,Week,DATE,,,en,3.7
 North American,North American,NORP,,,en,3.5999999999999996
+the Australian Open,the Australian Open,EVENT,,,en,3.5999999999999996
+2030,2030,DATE,,,en,3.5
 9,9,CARDINAL,,,en,3.5
 Four,Four,CARDINAL,,,en,3.5
-2030,2030,DATE,,,en,3.5
 nighttime,nighttime,TIME,,,en,3.4999999999999996
-Black Spoon,Black Spoon,WORK_OF_ART,,,en,3.4000000000000004
-early evening,early evening,TIME,,,en,3.4000000000000004
-above 40 degrees,above 40 degrees,QUANTITY,,,en,3.4000000000000004
-late-June,late-June,DATE,,,en,3.4000000000000004
-164.98 billion,164.98 billion,CARDINAL,,,en,3.4000000000000004
-"More than 2,700","More than 2,700",CARDINAL,,,en,3.4000000000000004
-104 degrees Fahrenheit,104 degrees Fahrenheit,QUANTITY,,,en,3.4000000000000004
-summer days,summer days,DATE,,,en,3.4000000000000004
-90 degrees,90 degrees,QUANTITY,,,en,3.4000000000000004
-the bank holiday weekend,the bank holiday weekend,DATE,,,en,3.4000000000000004
-Punjab,Punjab,NORP,0.4054054054054054,0.47297297297297297,en,3.4000000000000004
-34C,34C,CARDINAL,,,en,3.4000000000000004
-Hungarians,Hungarians,NORP,,,en,3.4000000000000004
-the FIFA World Cup,the FIFA World Cup,EVENT,,,en,3.4000000000000004
-the next week,the next week,DATE,,,en,3.4000000000000004
-almost every afternoon,almost every afternoon,TIME,,,en,3.4000000000000004
-85°F,85°F,QUANTITY,,,en,3.4000000000000004
-90s,90s,DATE,,,en,3.4000000000000004
-"More than 200,000","More than 200,000",CARDINAL,,,en,3.4000000000000004
 the Eiffel Tower,the Eiffel Tower,FAC,,,en,3.4000000000000004
+Punjab,Punjab,NORP,0.4054054054054054,0.47297297297297297,en,3.4000000000000004
+summer days,summer days,DATE,,,en,3.4000000000000004
+the bank holiday weekend,the bank holiday weekend,DATE,,,en,3.4000000000000004
+the FIFA World Cup,the FIFA World Cup,EVENT,,,en,3.4000000000000004
+Hungarians,Hungarians,NORP,,,en,3.4000000000000004
+90s,90s,DATE,,,en,3.4000000000000004
+Democratic,Democratic,NORP,,,en,3.4000000000000004
+above 40 degrees,above 40 degrees,QUANTITY,,,en,3.4000000000000004
 Dozens,Dozens,CARDINAL,,,en,3.4000000000000004
+the summer of 2019,the summer of 2019,DATE,,,en,3.4000000000000004
+Black Spoon,Black Spoon,WORK_OF_ART,,,en,3.4000000000000004
+85°F,85°F,QUANTITY,,,en,3.4000000000000004
+the Black Summer,the Black Summer,EVENT,,,en,3.4000000000000004
+90 degrees,90 degrees,QUANTITY,,,en,3.4000000000000004
+164.98 billion,164.98 billion,CARDINAL,,,en,3.4000000000000004
+late-June,late-June,DATE,,,en,3.4000000000000004
+early evening,early evening,TIME,,,en,3.4000000000000004
+104 degrees Fahrenheit,104 degrees Fahrenheit,QUANTITY,,,en,3.4000000000000004
+the next week,the next week,DATE,,,en,3.4000000000000004
+34C,34C,CARDINAL,,,en,3.4000000000000004
+ACs,ACs,PRODUCT,,,en,3.4000000000000004
 Greek,Greek,NORP,,,en,3.4000000000000004
 the next three days,the next three days,DATE,,,en,3.4000000000000004
-ACs,ACs,PRODUCT,,,en,3.4000000000000004
-Democratic,Democratic,NORP,,,en,3.4000000000000004
-the summer of 2019,the summer of 2019,DATE,,,en,3.4000000000000004
-the Black Summer,the Black Summer,EVENT,,,en,3.4000000000000004
+"More than 200,000","More than 200,000",CARDINAL,,,en,3.4000000000000004
+"More than 2,700","More than 2,700",CARDINAL,,,en,3.4000000000000004
+almost every afternoon,almost every afternoon,TIME,,,en,3.4000000000000004
 one day,one day,DATE,,,en,3.3999999999999995
+hundreds of thousands,hundreds of thousands,CARDINAL,,,en,3.3999999999999995
 Irish,Irish,NORP,,,en,3.3999999999999995
 22,22,CARDINAL,,,en,3.3999999999999995
-hundreds of thousands,hundreds of thousands,CARDINAL,,,en,3.3999999999999995
+Six,Six,CARDINAL,,,en,3.3
 Independence Day,Independence Day,DATE,,,en,3.3
 24,24,CARDINAL,,,en,3.3
-Six,Six,CARDINAL,,,en,3.3
 Nazi,Nazi,NORP,,,en,3.2999999999999994
 27,27,CARDINAL,,,en,3.299999999999999
 Halloween,Halloween,DATE,,,en,3.200000000000002
-31C,31C,DATE,,,en,3.2
-80%,80%,PERCENT,,,en,3.2
-38C,38C,FAC,,,en,3.2
-this years,this years,DATE,,,en,3.2
-countrys,countrys,NORP,,,en,3.2
 more than a decade,more than a decade,DATE,,,en,3.2
 mid-summer,mid-summer,DATE,,,en,3.2
 billions,billions,CARDINAL,,,en,3.2
+38C,38C,FAC,,,en,3.2
+this years,this years,DATE,,,en,3.2
+80%,80%,PERCENT,,,en,3.2
+31C,31C,DATE,,,en,3.2
+countrys,countrys,NORP,,,en,3.2
 June 21,June 21,DATE,,,en,3.1999999999999997
-Swiss,Swiss,NORP,,,en,3.1999999999999997
 five years,five years,DATE,,,en,3.1999999999999997
+Swiss,Swiss,NORP,,,en,3.1999999999999997
 2050,2050,DATE,,,en,3.1000000000000005
 1976,1976,DATE,,,en,3.1000000000000005
 Christmas,Christmas,DATE,,,en,3.1
 the Fourth of July weekend,the Fourth of July weekend,DATE,,,en,3.0999999999999996
-midday,midday,TIME,,,en,3.0
 seasonal,seasonal,DATE,,,en,3.0
-90,90,MONEY,,,en,3.0
+midday,midday,TIME,,,en,3.0
 27 degrees,27 degrees,QUANTITY,,,en,3.0
 the coming months,the coming months,DATE,,,en,3.0
+90,90,MONEY,,,en,3.0
 this winter,this winter,DATE,,,en,2.9999999999999996
+Jan 27,Jan 27,DATE,,,en,2.9000000000000004
 the end of the week,the end of the week,DATE,,,en,2.9000000000000004
 100°,100°,QUANTITY,,,en,2.9000000000000004
 the first day,the first day,DATE,,,en,2.9000000000000004
-Jan 27,Jan 27,DATE,,,en,2.9000000000000004
 Austrian,Austrian,NORP,,,en,2.9000000000000004
-3%,3%,PERCENT,,,en,2.9
-Scottish,Scottish,NORP,,,en,2.9
-six-day,six-day,DATE,,,en,2.9
-Yesterday,Yesterday,DATE,,,en,2.9
-115 degrees,115 degrees,QUANTITY,,,en,2.9
-42,42,CARDINAL,,,en,2.9
-Australians,Australians,NORP,,,en,2.9
-2nd,2nd,ORDINAL,,,en,2.9
-252.07,252.07,CARDINAL,,,en,2.9
 Thanksgiving,Thanksgiving,DATE,,,en,2.9
-34,34,DATE,,,en,2.8000000000000003
+2nd,2nd,ORDINAL,,,en,2.9
+Scottish,Scottish,NORP,,,en,2.9
+252.07,252.07,CARDINAL,,,en,2.9
+Yesterday,Yesterday,DATE,,,en,2.9
+Australians,Australians,NORP,,,en,2.9
+42,42,CARDINAL,,,en,2.9
+115 degrees,115 degrees,QUANTITY,,,en,2.9
+six-day,six-day,DATE,,,en,2.9
+3%,3%,PERCENT,,,en,2.9
 Last weekend,Last weekend,DATE,,,en,2.8000000000000003
+34,34,DATE,,,en,2.8000000000000003
 70,70,CARDINAL,,,en,2.8
 tonight,tonight,TIME,,,en,2.8
 21,21,CARDINAL,,,en,2.8
-October,October,DATE,,,en,2.7000000000000006
 2017,2017,DATE,,,en,2.7000000000000006
-29,29,CARDINAL,,,en,2.7
-Californians,Californians,NORP,,,en,2.7
-the past decade,the past decade,DATE,,,en,2.7
-up to,up to,CARDINAL,,,en,2.7
-hottest year,hottest year,DATE,,,en,2.7
-recent months,recent months,DATE,,,en,2.7
-two days,two days,DATE,,,en,2.7
+October,October,DATE,,,en,2.7000000000000006
 May 2026,May 2026,DATE,,,en,2.7
+29,29,CARDINAL,,,en,2.7
+two days,two days,DATE,,,en,2.7
+Californians,Californians,NORP,,,en,2.7
+hottest year,hottest year,DATE,,,en,2.7
+up to,up to,CARDINAL,,,en,2.7
+the past decade,the past decade,DATE,,,en,2.7
+recent months,recent months,DATE,,,en,2.7
 Madison Square Garden,Madison Square Garden,FAC,,,en,2.6999999999999997
 48,48,CARDINAL,,,en,2.6999999999999997
 the winter,the winter,DATE,,,en,2.6000000000000005
 the season,the season,DATE,,,en,2.6000000000000005
-above 85°F,above 85°F,QUANTITY,,,en,2.6
-50 years ago,50 years ago,DATE,,,en,2.6
-the hottest day,the hottest day,DATE,,,en,2.6
-the past two days,the past two days,DATE,,,en,2.6
-a second straight day,a second straight day,DATE,,,en,2.6
-three-year-old,three-year-old,DATE,,,en,2.6
-five days,five days,DATE,,,en,2.6
-104 Fahrenheit,104 Fahrenheit,QUANTITY,,,en,2.6
-Germans,Germans,NORP,,,en,2.6
-39,39,CARDINAL,,,en,2.6
-these days,these days,DATE,,,en,2.6
-39C,39C,CARDINAL,,,en,2.6
-South Australians,South Australians,NORP,,,en,2.6
-hottest June day,hottest June day,DATE,,,en,2.6
 several days,several days,DATE,,,en,2.6
-14 days,14 days,DATE,,,en,2.6
-Weekend,Weekend,DATE,,,en,2.6
-June day,June day,DATE,,,en,2.6
-Aug 12,Aug 12,DATE,,,en,2.6
-June 23,June 23,DATE,,,en,2.6
-45,45,CARDINAL,,,en,2.6
-all week,all week,DATE,,,en,2.6
-D.,D.,NORP,,,en,2.6
 "More than 1,300","More than 1,300",CARDINAL,,,en,2.6
-Wednesday 7 January,Wednesday 7 January,DATE,,,en,2.6
-western European,western European,NORP,,,en,2.6
-38,38,CARDINAL,,,en,2.6
-Holiday weekend,Holiday weekend,DATE,,,en,2.6
-11.55,11.55,CARDINAL,,,en,2.6
+all week,all week,DATE,,,en,2.6
+14 days,14 days,DATE,,,en,2.6
 "5,000","5,000",MONEY,,,en,2.6
-43C,43C,CARDINAL,,,en,2.6
-50 degrees Celsius,50 degrees Celsius,QUANTITY,,,en,2.6
+the past two days,the past two days,DATE,,,en,2.6
+thousands of acres,thousands of acres,QUANTITY,,,en,2.6
+a second straight day,a second straight day,DATE,,,en,2.6
+Holiday weekend,Holiday weekend,DATE,,,en,2.6
+Aug 12,Aug 12,DATE,,,en,2.6
+this season,this season,DATE,,,en,2.6
+50 years ago,50 years ago,DATE,,,en,2.6
+these days,these days,DATE,,,en,2.6
+June day,June day,DATE,,,en,2.6
+three-year-old,three-year-old,DATE,,,en,2.6
+South Australians,South Australians,NORP,,,en,2.6
+the hottest day,the hottest day,DATE,,,en,2.6
 October 2023,October 2023,DATE,,,en,2.6
-South Koreans,South Koreans,NORP,,,en,2.6
+Download,Download,WORK_OF_ART,,,en,2.6
+Fridays,Fridays,DATE,,,en,2.6
 the coming week,the coming week,DATE,,,en,2.6
-This last weekend,This last weekend,DATE,,,en,2.6
-33,33,CARDINAL,,,en,2.6
-hot days,hot days,DATE,,,en,2.6
-252,252,CARDINAL,,,en,2.6
-20 years ago,20 years ago,DATE,,,en,2.6
 Fijian,Fijian,NORP,,,en,2.6
-early September,early September,DATE,,,en,2.6
+38,38,CARDINAL,,,en,2.6
+western European,western European,NORP,,,en,2.6
+Germans,Germans,NORP,,,en,2.6
+June 23,June 23,DATE,,,en,2.6
+Wednesday 7 January,Wednesday 7 January,DATE,,,en,2.6
+104 Fahrenheit,104 Fahrenheit,QUANTITY,,,en,2.6
+hottest June day,hottest June day,DATE,,,en,2.6
+hot days,hot days,DATE,,,en,2.6
+43C,43C,CARDINAL,,,en,2.6
+Weekend,Weekend,DATE,,,en,2.6
 Gen Z,Gen Z,PRODUCT,,,en,2.6
 Tuesday night,Tuesday night,TIME,,,en,2.6
-Fridays,Fridays,DATE,,,en,2.6
+above 85°F,above 85°F,QUANTITY,,,en,2.6
+five days,five days,DATE,,,en,2.6
+33,33,CARDINAL,,,en,2.6
+39C,39C,CARDINAL,,,en,2.6
+11.55,11.55,CARDINAL,,,en,2.6
+50 degrees Celsius,50 degrees Celsius,QUANTITY,,,en,2.6
+39,39,CARDINAL,,,en,2.6
+D.,D.,NORP,,,en,2.6
+45,45,CARDINAL,,,en,2.6
+South Koreans,South Koreans,NORP,,,en,2.6
 47.6 degrees Celsius,47.6 degrees Celsius,QUANTITY,,,en,2.6
-thousands of acres,thousands of acres,QUANTITY,,,en,2.6
-Download,Download,WORK_OF_ART,,,en,2.6
-this season,this season,DATE,,,en,2.6
-mid-July,mid-July,DATE,,,en,2.5999999999999996
+This last weekend,This last weekend,DATE,,,en,2.6
+252,252,CARDINAL,,,en,2.6
+20 years ago,20 years ago,DATE,,,en,2.6
+early September,early September,DATE,,,en,2.6
 Nigerian,Nigerian,NORP,,,en,2.5999999999999996
+mid-July,mid-July,DATE,,,en,2.5999999999999996
 Hurricane Melissa,Hurricane Melissa,EVENT,,,en,2.5000000000000013
-early next week,early next week,DATE,,,en,2.5
-2026 FIFA World Cup,2026 FIFA World Cup,EVENT,,,en,2.5
-Sixteen,Sixteen,CARDINAL,,,en,2.5
-the 2026 FIFA World Cup,the 2026 FIFA World Cup,EVENT,,,en,2.5
+the 1970s,the 1970s,DATE,,,en,2.5
 spring,spring,DATE,,,en,2.5
 Spelta,Spelta,NORP,,,en,2.5
+2026 FIFA World Cup,2026 FIFA World Cup,EVENT,,,en,2.5
+Sixteen,Sixteen,CARDINAL,,,en,2.5
 Climate Change,Climate Change,PRODUCT,,,en,2.5
-the 1970s,the 1970s,DATE,,,en,2.5
 May.,May.,DATE,0.11965811965811968,0.14102564102564105,en,2.5
+early next week,early next week,DATE,,,en,2.5
 "200,000","200,000",MONEY,,,en,2.5
+the 2026 FIFA World Cup,the 2026 FIFA World Cup,EVENT,,,en,2.5
+Third,Third,ORDINAL,,,en,2.4000000000000004
++4609,+4609,NORP,,,en,2.4000000000000004
+autumn,autumn,DATE,,,en,2.4000000000000004
+42 degrees,42 degrees,QUANTITY,,,en,2.4000000000000004
+1989,1989,DATE,,,en,2.4000000000000004
 2008,2008,DATE,,,en,2.4000000000000004
 FIFA World Cup,FIFA World Cup,EVENT,,,en,2.4000000000000004
 the days,the days,DATE,,,en,2.4000000000000004
-Third,Third,ORDINAL,,,en,2.4000000000000004
-42 degrees,42 degrees,QUANTITY,,,en,2.4000000000000004
-1989,1989,DATE,,,en,2.4000000000000004
-+4609,+4609,NORP,,,en,2.4000000000000004
-autumn,autumn,DATE,,,en,2.4000000000000004
-2010,2010,DATE,,,en,2.4
-Ghost,Ghost,WORK_OF_ART,,,en,2.4
-French Open,French Open,EVENT,,,en,2.4
-2012,2012,DATE,,,en,2.4
-"Jan 14, 2026","Jan 14, 2026",DATE,,,en,2.4
 4pm,4pm,TIME,,,en,2.4
-MARCH,MARCH,DATE,,,en,2.4
+Ghost,Ghost,WORK_OF_ART,,,en,2.4
 these past few days,these past few days,DATE,,,en,2.4
-JUNE,JUNE,DATE,,,en,2.4
-the summer months,the summer months,DATE,,,en,2.4
+2010,2010,DATE,,,en,2.4
 annually,annually,DATE,,,en,2.4
 the coming years,the coming years,DATE,,,en,2.4
-Half,Half,DATE,,,en,2.3
-1995,1995,DATE,,,en,2.3
-Australian Open,Australian Open,EVENT,,,en,2.3
-two-thirds,two-thirds,CARDINAL,,,en,2.3
+2012,2012,DATE,,,en,2.4
+JUNE,JUNE,DATE,,,en,2.4
+MARCH,MARCH,DATE,,,en,2.4
+"Jan 14, 2026","Jan 14, 2026",DATE,,,en,2.4
+French Open,French Open,EVENT,,,en,2.4
+the summer months,the summer months,DATE,,,en,2.4
 Ten,Ten,CARDINAL,,,en,2.3
-85,85,CARDINAL,,,en,2.2
-Tunisian,Tunisian,NORP,,,en,2.2
-70B,70B,MONEY,,,en,2.2
+Australian Open,Australian Open,EVENT,,,en,2.3
+Half,Half,DATE,,,en,2.3
+two-thirds,two-thirds,CARDINAL,,,en,2.3
+1995,1995,DATE,,,en,2.3
 Jan 24,Jan 24,DATE,,,en,2.2
+85,85,CARDINAL,,,en,2.2
+95,95,DATE,,,en,2.2
+the Week,the Week,DATE,,,en,2.2
+"20,000","20,000",CARDINAL,,,en,2.2
+another year,another year,DATE,,,en,2.2
+70B,70B,MONEY,,,en,2.2
+Tunisian,Tunisian,NORP,,,en,2.2
 Memorial Day,Memorial Day,EVENT,,,en,2.2
 a few weeks,a few weeks,DATE,,,en,2.2
-95,95,DATE,,,en,2.2
-another year,another year,DATE,,,en,2.2
-"20,000","20,000",CARDINAL,,,en,2.2
-the Week,the Week,DATE,,,en,2.2
 2006,2006,DATE,,,en,2.1000000000000005
 Seven,Seven,CARDINAL,,,en,2.1000000000000005
-49C,49C,CARDINAL,,,en,2.1
-Londoners,Londoners,NORP,,,en,2.1
-Asian,Asian,NORP,,,en,2.1
-yearly,yearly,DATE,,,en,2.1
 this morning,this morning,TIME,,,en,2.1
 July 4 holiday,July 4 holiday,DATE,,,en,2.1
+Asian,Asian,NORP,,,en,2.1
+49C,49C,CARDINAL,,,en,2.1
+yearly,yearly,DATE,,,en,2.1
+Londoners,Londoners,NORP,,,en,2.1
 the Solar System,the Solar System,PRODUCT,,,en,2.1
 46 degrees Celsius,46 degrees Celsius,QUANTITY,,,en,2.1
 50%,50%,PERCENT,,,en,2.1
@@ -510,13 +510,13 @@ Just days,Just days,DATE,,,en,1.8
 early January,early January,DATE,,,en,1.8
 July 13,July 13,DATE,,,en,1.8
 Another week,Another week,DATE,,,en,1.8
+"More than 10,000","More than 10,000",CARDINAL,,,en,1.8
 453,453,CARDINAL,,,en,1.8
 summer of 1976,summer of 1976,DATE,,,en,1.8
-"More than 10,000","More than 10,000",CARDINAL,,,en,1.8
 early July,early July,DATE,,,en,1.8
 August 1976,August 1976,DATE,,,en,1.8
-70 watts,70 watts,QUANTITY,,,en,1.8
 "over 32,000 hectares","over 32,000 hectares",QUANTITY,,,en,1.8
+70 watts,70 watts,QUANTITY,,,en,1.8
 Elche,Elche,EVENT,,,en,1.8
 +3352 chars,+3352 chars,WORK_OF_ART,,,en,1.8
 nearly 1 million,nearly 1 million,CARDINAL,,,en,1.8
@@ -677,14 +677,14 @@ At least $57 billion,At least $57 billion,MONEY,,,en,1.8
 41,41,CARDINAL,,,en,1.8
 About 50,About 50,CARDINAL,,,en,1.8
 140,140,CARDINAL,,,en,1.8
-the summer of 2022,the summer of 2022,DATE,,,en,1.8
+Tomorrow,Tomorrow,DATE,,,en,1.8
 25-to-40 degrees,25-to-40 degrees,QUANTITY,,,en,1.8
 112 degrees,112 degrees,QUANTITY,,,en,1.8
 the past several weeks,the past several weeks,DATE,,,en,1.8
 above 80°F,above 80°F,QUANTITY,,,en,1.8
 the July 4 weekend,the July 4 weekend,DATE,,,en,1.8
 66,66,DATE,,,en,1.8
-Tomorrow,Tomorrow,DATE,,,en,1.8
+the summer of 2022,the summer of 2022,DATE,,,en,1.8
 ™,™,CARDINAL,,,en,1.8
 Championships,Championships,EVENT,,,en,1.8
 The first two months of summer,The first two months of summer,DATE,,,en,1.8
@@ -746,8 +746,8 @@ at least six,at least six,CARDINAL,,,en,1.8
 weeks earlier,weeks earlier,DATE,,,en,1.8
 30deg,30deg,CARDINAL,,,en,1.8
 30 degrees Celsius,30 degrees Celsius,QUANTITY,,,en,1.8
-50C.,50C.,CARDINAL,,,en,1.8
 25 years later,25 years later,DATE,,,en,1.8
+50C.,50C.,CARDINAL,,,en,1.8
 Eiffel Tower,Eiffel Tower,FAC,,,en,1.8
 +44 chars,+44 chars,WORK_OF_ART,,,en,1.8
 The hottest day,The hottest day,DATE,,,en,1.8
@@ -888,28 +888,28 @@ the 2026 season,the 2026 season,DATE,,,en,1.5
 1971,1971,DATE,,,en,1.4000000000000004
 946,946,CARDINAL,,,en,1.4000000000000004
 1930s,1930s,DATE,,,en,1.4000000000000001
+November,November,DATE,,,en,1.4000000000000001
 Monday night,Monday night,TIME,,,en,1.4000000000000001
 2D,2D,CARDINAL,,,en,1.4000000000000001
-November,November,DATE,,,en,1.4000000000000001
-"July 12, 2026","July 12, 2026",DATE,,,en,1.4
-Kaseya Center,Kaseya Center,FAC,,,en,1.4
 62,62,MONEY,,,en,1.4
-the evening,the evening,TIME,,,en,1.4
+Kaseya Center,Kaseya Center,FAC,,,en,1.4
 mid-August,mid-August,DATE,,,en,1.4
-Heated Rivalry,Heated Rivalry,WORK_OF_ART,,,en,1.4
 the past three years,the past three years,DATE,,,en,1.4
+the evening,the evening,TIME,,,en,1.4
+"July 12, 2026","July 12, 2026",DATE,,,en,1.4
+Heated Rivalry,Heated Rivalry,WORK_OF_ART,,,en,1.4
 Chadster,Chadster,FAC,-0.7636363636363637,2.0909090909090904,en,1.3000000000000003
 Celtic,Celtic,NORP,,,en,1.3000000000000003
 this holiday season,this holiday season,DATE,,,en,1.3000000000000003
-Western European,Western European,NORP,,,en,1.3
-2007,2007,DATE,,,en,1.3
-some 30 degrees,some 30 degrees,QUANTITY,,,en,1.3
-Pakistani,Pakistani,NORP,,,en,1.3
-+7150,+7150,CARDINAL,,,en,1.3
 Saturn,Saturn,PRODUCT,,,en,1.3
+Western European,Western European,NORP,,,en,1.3
+Pakistani,Pakistani,NORP,,,en,1.3
+"Thursday, August 27, 2026","Thursday, August 27, 2026",DATE,,,en,1.3
+some 30 degrees,some 30 degrees,QUANTITY,,,en,1.3
++7150,+7150,CARDINAL,,,en,1.3
 the Refugee Convention,the Refugee Convention,LAW,,,en,1.3
 up to 30%,up to 30%,PERCENT,,,en,1.3
-"Thursday, August 27, 2026","Thursday, August 27, 2026",DATE,,,en,1.3
+2007,2007,DATE,,,en,1.3
 the start of summer,the start of summer,DATE,,,en,1.3
 255.85,255.85,CARDINAL,,,en,1.3
 a quarter,a quarter,DATE,,,en,1.3
@@ -955,8 +955,8 @@ every summer,every summer,DATE,,,en,1.3
 250 years,250 years,DATE,,,en,1.3
 "9,000","9,000",CARDINAL,,,en,1.3
 N2.5m,N2.5m,QUANTITY,0.5,0.5,en,1.3
+the summer season,the summer season,DATE,,,en,1.3
 the late 1800s,the late 1800s,DATE,,,en,1.3
-Mars,Mars,PRODUCT,0.044444444444444446,0.15555555555555556,en,1.3
 1753,1753,DATE,,,en,1.3
 Just weeks,Just weeks,DATE,,,en,1.3
 as high as 28 degrees,as high as 28 degrees,QUANTITY,,,en,1.3
@@ -968,7 +968,7 @@ previous years,previous years,DATE,,,en,1.3
 the year before,the year before,DATE,,,en,1.3
 2.4%,2.4%,PERCENT,,,en,1.3
 37,37,CARDINAL,,,en,1.3
-the summer season,the summer season,DATE,,,en,1.3
+Mars,Mars,PRODUCT,0.044444444444444446,0.15555555555555556,en,1.3
 "May 22, 2026","May 22, 2026",DATE,,,en,1.3
 Grammy,Grammy,WORK_OF_ART,,,en,1.3
 June 19,June 19,DATE,,,en,1.3
@@ -1058,14 +1058,14 @@ a summer,a summer,DATE,,,en,1.3
 Saudi,Saudi,NORP,,,en,1.3
 Jannik Sinner,Jannik Sinner,WORK_OF_ART,,,en,1.3
 Argentinian,Argentinian,NORP,,,en,1.3
+second-half,second-half,DATE,,,en,1.3
 the first days of meteorological summer,the first days of meteorological summer,DATE,,,en,1.3
 329%,329%,PERCENT,,,en,1.3
 46°,46°,PERCENT,,,en,1.3
-second-half,second-half,DATE,,,en,1.3
 more than five minutes,more than five minutes,TIME,,,en,1.3
 A decade ago,A decade ago,DATE,,,en,1.3
-Longer days,Longer days,DATE,,,en,1.3
 over a decade,over a decade,DATE,,,en,1.3
+Longer days,Longer days,DATE,,,en,1.3
 the month of June,the month of June,DATE,,,en,1.3
 October 2002,October 2002,DATE,,,en,1.3
 the Most Brutal Winters,the Most Brutal Winters,EVENT,,,en,1.3
@@ -1083,83 +1083,83 @@ recent decades,recent decades,DATE,,,en,1.3
 the last five years,the last five years,DATE,,,en,1.3
 Twenty20 series,Twenty20 series,EVENT,,,en,1.3
 the 2026 French Open,the 2026 French Open,EVENT,,,en,1.3
-Muslim,Muslim,NORP,,,en,1.3
-46 celsius,46 celsius,QUANTITY,,,en,1.3
-the Year,the Year,DATE,,,en,1.3
-Empower Field,Empower Field,FAC,,,en,1.3
-"3,000","3,000",CARDINAL,,,en,1.3
 Dec 24,Dec 24,DATE,,,en,1.3
+Empower Field,Empower Field,FAC,,,en,1.3
+46 celsius,46 celsius,QUANTITY,,,en,1.3
+"3,000","3,000",CARDINAL,,,en,1.3
 "May 19, 2026 /PRNewswire/","May 19, 2026 /PRNewswire/",DATE,,,en,1.3
-the Great Barrier Reef,the Great Barrier Reef,EVENT,,,en,1.2000000000000002
-MR50,MR50,PRODUCT,,,en,1.2000000000000002
-the holiday season,the holiday season,DATE,,,en,1.2000000000000002
-2C,2C,CARDINAL,,,en,1.2000000000000002
-at least five,at least five,CARDINAL,,,en,1.2000000000000002
-QA50,QA50,PRODUCT,,,en,1.2000000000000002
-Brazilian,Brazilian,NORP,,,en,1.2000000000000002
-the end of the century,the end of the century,DATE,,,en,1.2000000000000002
-22 Ounce Water Bottle,22 Ounce Water Bottle,QUANTITY,,,en,1.2000000000000002
-1973,1973,DATE,,,en,1.2000000000000002
-this spooky season,this spooky season,DATE,,,en,1.2000000000000002
-1986,1986,DATE,,,en,1.2000000000000002
-1967,1967,DATE,,,en,1.2000000000000002
+Muslim,Muslim,NORP,,,en,1.3
+the Year,the Year,DATE,,,en,1.3
 Night,Night,TIME,,,en,1.2000000000000002
 1977,1977,DATE,,,en,1.2000000000000002
+the end of the century,the end of the century,DATE,,,en,1.2000000000000002
+QA50,QA50,PRODUCT,,,en,1.2000000000000002
+1967,1967,DATE,,,en,1.2000000000000002
+at least five,at least five,CARDINAL,,,en,1.2000000000000002
+2C,2C,CARDINAL,,,en,1.2000000000000002
+the holiday season,the holiday season,DATE,,,en,1.2000000000000002
+22 Ounce Water Bottle,22 Ounce Water Bottle,QUANTITY,,,en,1.2000000000000002
+1986,1986,DATE,,,en,1.2000000000000002
+Brazilian,Brazilian,NORP,,,en,1.2000000000000002
+MR50,MR50,PRODUCT,,,en,1.2000000000000002
+this spooky season,this spooky season,DATE,,,en,1.2000000000000002
+1973,1973,DATE,,,en,1.2000000000000002
+the Great Barrier Reef,the Great Barrier Reef,EVENT,,,en,1.2000000000000002
+2500W,2500W,CARDINAL,,,en,1.2
 cl,cl,NORP,,,en,1.2
-"January 11, 2026","January 11, 2026",DATE,,,en,1.2
-Season-long,Season-long,DATE,,,en,1.2
-"4,247","4,247",CARDINAL,,,en,1.2
-More than 900,More than 900,CARDINAL,,,en,1.2
-June 3,June 3,DATE,,,en,1.2
 903,903,CARDINAL,,,en,1.2
+DUI,DUI,EVENT,,,en,1.2
 the start of the year,the start of the year,DATE,,,en,1.2
-30 years,30 years,DATE,,,en,1.2
+90%,90%,PERCENT,,,en,1.2
 the two days,the two days,DATE,,,en,1.2
 Disneyland,Disneyland,FAC,,,en,1.2
-"August 1, 2026","August 1, 2026",DATE,,,en,1.2
-10s,10s,CARDINAL,,,en,1.2
-South Asian,South Asian,NORP,,,en,1.2
-2500W,2500W,CARDINAL,,,en,1.2
-DUI,DUI,EVENT,,,en,1.2
-2005-06,2005-06,DATE,,,en,1.2
-"June 4, 2026 /PRNewswire/","June 4, 2026 /PRNewswire/",DATE,,,en,1.2
-March 17,March 17,DATE,,,en,1.2
-these four seasons,these four seasons,DATE,,,en,1.2
-the second day,the second day,DATE,,,en,1.2
-"4,352 degrees Fahrenheit","4,352 degrees Fahrenheit",QUANTITY,,,en,1.2
-"August 16, 2026","August 16, 2026",DATE,,,en,1.2
-Dec. 15,Dec. 15,DATE,,,en,1.2
-Heat Dome,Heat Dome,FAC,,,en,1.2
-"2,400 degrees Celsius","2,400 degrees Celsius",QUANTITY,,,en,1.2
 seven nights,seven nights,DATE,,,en,1.2
-90%,90%,PERCENT,,,en,1.2
-Resort,Resort,FAC,,,en,1.2
-Roots Picnic,Roots Picnic,EVENT,,,en,1.2
+"2,400 degrees Celsius","2,400 degrees Celsius",QUANTITY,,,en,1.2
+Heat Dome,Heat Dome,FAC,,,en,1.2
 "June 22, 2026 /PRNewswire/","June 22, 2026 /PRNewswire/",DATE,,,en,1.2
-the Miami Heat,the Miami Heat,FAC,1.3333333333333335,0.6666666666666667,en,1.2
+June 3,June 3,DATE,,,en,1.2
 2006-07,2006-07,DATE,,,en,1.2
-"April 26, 2026","April 26, 2026",DATE,,,en,1.2
-a full hour,a full hour,TIME,,,en,1.2
+10s,10s,CARDINAL,,,en,1.2
+"August 16, 2026","August 16, 2026",DATE,,,en,1.2
+"4,352 degrees Fahrenheit","4,352 degrees Fahrenheit",QUANTITY,,,en,1.2
+"August 1, 2026","August 1, 2026",DATE,,,en,1.2
+30 years,30 years,DATE,,,en,1.2
+the second day,the second day,DATE,,,en,1.2
+these four seasons,these four seasons,DATE,,,en,1.2
+"4,247","4,247",CARDINAL,,,en,1.2
+Season-long,Season-long,DATE,,,en,1.2
+Dec. 15,Dec. 15,DATE,,,en,1.2
+More than 900,More than 900,CARDINAL,,,en,1.2
 2024-25,2024-25,DATE,,,en,1.2
-"July 26, 2026","July 26, 2026",DATE,,,en,1.2
-132,132,CARDINAL,,,en,1.2
 Loudwire Nights,Loudwire Nights,FAC,,,en,1.2
-6-of-13,6-of-13,CARDINAL,,,en,1.2
-Jaipur Airport,Jaipur Airport,FAC,,,en,1.2
+the Miami Heat,the Miami Heat,FAC,1.3333333333333335,0.6666666666666667,en,1.2
+March 17,March 17,DATE,,,en,1.2
+a full hour,a full hour,TIME,,,en,1.2
 Only one,Only one,CARDINAL,,,en,1.2
+"July 26, 2026","July 26, 2026",DATE,,,en,1.2
+6-of-13,6-of-13,CARDINAL,,,en,1.2
+South Asian,South Asian,NORP,,,en,1.2
+Jaipur Airport,Jaipur Airport,FAC,,,en,1.2
+132,132,CARDINAL,,,en,1.2
+2005-06,2005-06,DATE,,,en,1.2
+Roots Picnic,Roots Picnic,EVENT,,,en,1.2
+Resort,Resort,FAC,,,en,1.2
+"June 4, 2026 /PRNewswire/","June 4, 2026 /PRNewswire/",DATE,,,en,1.2
+"April 26, 2026","April 26, 2026",DATE,,,en,1.2
 "February 1, 2026","February 1, 2026",DATE,,,en,1.2
-Pilates,Pilates,PRODUCT,,,en,1.1
-Thai,Thai,NORP,,,en,1.1
-Aug 31,Aug 31,DATE,,,en,1.1
-53.02,53.02,CARDINAL,,,en,1.1
-1933,1933,DATE,,,en,1.1
-Moskovsky Station,Moskovsky Station,FAC,,,en,1.1
-4.5,4.5,CARDINAL,,,en,1.1
-"400,000","400,000",CARDINAL,,,en,1.1
-1974,1974,DATE,,,en,1.1
+"January 11, 2026","January 11, 2026",DATE,,,en,1.2
 Chernihiv,Chernihiv,NORP,,,en,1.1
+Aug 31,Aug 31,DATE,,,en,1.1
+Thai,Thai,NORP,,,en,1.1
+53.02,53.02,CARDINAL,,,en,1.1
+1974,1974,DATE,,,en,1.1
+"400,000","400,000",CARDINAL,,,en,1.1
+Pilates,Pilates,PRODUCT,,,en,1.1
 Nespresso,Nespresso,PRODUCT,,,en,1.1
+4.5,4.5,CARDINAL,,,en,1.1
 six more weeks,six more weeks,DATE,,,en,1.1
+Moskovsky Station,Moskovsky Station,FAC,,,en,1.1
+1933,1933,DATE,,,en,1.1
 60,60,MONEY,,,en,1.1
 Boots,Boots,WORK_OF_ART,,,en,1.1
 "Nov. 14, 2025","Nov. 14, 2025",DATE,,,en,1.1
@@ -1167,14 +1167,14 @@ Boots,Boots,WORK_OF_ART,,,en,1.1
 89.99,89.99,MONEY,,,en,1.1
 November 3rd,November 3rd,DATE,,,en,1.1
 Sept 28,Sept 28,DATE,,,en,1.1
-our third and final day,our third and final day,DATE,,,en,1.1
-Appalachian,Appalachian,NORP,,,en,1.1
 14-oz,14-oz,CARDINAL,,,en,1.1
-Five-day,Five-day,DATE,,,en,1.1
-27 Halloween,27 Halloween,DATE,,,en,1.1
+our third and final day,our third and final day,DATE,,,en,1.1
 "Wednesday, October 22","Wednesday, October 22",DATE,,,en,1.1
+Appalachian,Appalachian,NORP,,,en,1.1
+Five-day,Five-day,DATE,,,en,1.1
 the Disneyland Resort,the Disneyland Resort,FAC,,,en,1.1
 The other morning,The other morning,TIME,,,en,1.1
+27 Halloween,27 Halloween,DATE,,,en,1.1
 "Jan. 7, 2026","Jan. 7, 2026",DATE,,,en,1.1
 the end of the season,the end of the season,DATE,,,en,1.1
 40%,40%,PERCENT,,,en,1.1
@@ -1223,31 +1223,31 @@ Halloween Treat Week,Halloween Treat Week,DATE,,,en,1.1
 6.9,6.9,CARDINAL,,,en,1.1
 99%,99%,PERCENT,,,en,1.1
 Star,Star,WORK_OF_ART,,,en,1.1
-229,229,CARDINAL,,,en,1.1
-"between 39,000 and 52,000","between 39,000 and 52,000",CARDINAL,,,en,1.1
-end-of-year,end-of-year,DATE,,,en,1.1
-+15176,+15176,NORP,,,en,1.1
-quarterly,quarterly,DATE,,,en,1.1
+twelfth,twelfth,ORDINAL,,,en,1.1
 October 13th –,October 13th –,DATE,,,en,1.1
 those days,those days,DATE,,,en,1.1
 before sophomore year,before sophomore year,DATE,,,en,1.1
-one year,one year,DATE,,,en,1.1
-twelfth,twelfth,ORDINAL,,,en,1.1
-Grade A Auto Parts,Grade A Auto Parts,EVENT,,,en,1.1
 Franken,Franken,LAW,,,en,1.1
-the seasons ahead,the seasons ahead,DATE,,,en,1.0
-later in the year,later in the year,TIME,,,en,1.0
-Cajun,Cajun,PRODUCT,,,en,1.0
-Midday Edition,Midday Edition,WORK_OF_ART,,,en,1.0
-Six thousand years,Six thousand years,DATE,,,en,1.0
-a recent afternoon,a recent afternoon,TIME,,,en,1.0
-600,600,CARDINAL,,,en,1.0
-Panama Canal,Panama Canal,FAC,,,en,1.0
+Grade A Auto Parts,Grade A Auto Parts,EVENT,,,en,1.1
+one year,one year,DATE,,,en,1.1
+quarterly,quarterly,DATE,,,en,1.1
++15176,+15176,NORP,,,en,1.1
+end-of-year,end-of-year,DATE,,,en,1.1
+"between 39,000 and 52,000","between 39,000 and 52,000",CARDINAL,,,en,1.1
+229,229,CARDINAL,,,en,1.1
 a noon kickoff,a noon kickoff,TIME,,,en,1.0
+Panama Canal,Panama Canal,FAC,,,en,1.0
+600,600,CARDINAL,,,en,1.0
+a recent afternoon,a recent afternoon,TIME,,,en,1.0
+later in the year,later in the year,TIME,,,en,1.0
+Midday Edition,Midday Edition,WORK_OF_ART,,,en,1.0
+the seasons ahead,the seasons ahead,DATE,,,en,1.0
 Surat,Surat,EVENT,0.08,0.39499999999999996,en,1.0
-July 19th,July 19th,DATE,,,en,1.0
-French Quarter,French Quarter,EVENT,,,en,1.0
+Six thousand years,Six thousand years,DATE,,,en,1.0
+Cajun,Cajun,PRODUCT,,,en,1.0
 Muslims,Muslims,NORP,,,en,1.0
+French Quarter,French Quarter,EVENT,,,en,1.0
+near-record year,near-record year,DATE,,,en,1.0
 Scoville,Scoville,NORP,,,en,1.0
 JUNE 12,JUNE 12,DATE,,,en,1.0
 the FIFA World Cup 2026 Group,the FIFA World Cup 2026 Group,EVENT,,,en,1.0
@@ -1256,7 +1256,7 @@ Three weeks ago,Three weeks ago,DATE,,,en,1.0
 19 JUNE 2026 11:53,19 JUNE 2026 11:53,DATE,,,en,1.0
 "June 12, 2026","June 12, 2026",DATE,,,en,1.0
 3667,3667,CARDINAL,,,en,1.0
-+4896 chars,+4896 chars,WORK_OF_ART,,,en,1.0
+July 19th,July 19th,DATE,,,en,1.0
 the final days,the final days,DATE,,,en,1.0
 81,81,CARDINAL,,,en,1.0
 the day before her 14th,the day before her 14th,DATE,,,en,1.0
@@ -1280,12 +1280,12 @@ only half,only half,CARDINAL,,,en,1.0
 9 September 2025,9 September 2025,DATE,,,en,1.0
 July 2018,July 2018,DATE,,,en,1.0
 +5442,+5442,CARDINAL,,,en,1.0
-near-record year,near-record year,DATE,,,en,1.0
++4896 chars,+4896 chars,WORK_OF_ART,,,en,1.0
+05,05,CARDINAL,,,en,1.0
 the FIFA World Cup 2026 Group F,the FIFA World Cup 2026 Group F,EVENT,,,en,1.0
 Cyrielle,Cyrielle,NORP,,,en,1.0
 8%,8%,PERCENT,,,en,1.0
 Oak Ridge,Oak Ridge,FAC,,,en,1.0
-05,05,CARDINAL,,,en,1.0
 nearly two hours,nearly two hours,TIME,,,en,1.0
 around two hours,around two hours,TIME,,,en,1.0
 Grand Prix,Grand Prix,PRODUCT,,,en,1.0
@@ -1300,8 +1300,8 @@ Deluxe Resorts,Deluxe Resorts,FAC,,,en,1.0
 "Aug. 14, 2026","Aug. 14, 2026",DATE,,,en,1.0
 above 100 degrees,above 100 degrees,QUANTITY,,,en,1.0
 The Sunday Papers,The Sunday Papers,WORK_OF_ART,,,en,1.0
-+1937 chars,+1937 chars,WORK_OF_ART,,,en,1.0
 At least 18,At least 18,CARDINAL,,,en,1.0
++1937 chars,+1937 chars,WORK_OF_ART,,,en,1.0
 a Master of Geoscience for Pro,a Master of Geoscience for Pro,WORK_OF_ART,,,en,1.0
 more than 40,more than 40,CARDINAL,,,en,1.0
 "15,000","15,000",CARDINAL,,,en,1.0
@@ -1609,8 +1609,8 @@ This Is Absolutely Crazy,This Is Absolutely Crazy,WORK_OF_ART,,,en,1.0
 "June 11 to July 19, 2026","June 11 to July 19, 2026",DATE,,,en,1.0
 The FIFA World Cup,The FIFA World Cup,EVENT,,,en,1.0
 23 August 2026,23 August 2026,DATE,,,en,1.0
-"July 12, 2023","July 12, 2023",DATE,,,en,1.0
 May 30-31,May 30-31,DATE,,,en,1.0
+"July 12, 2023","July 12, 2023",DATE,,,en,1.0
 the next decade,the next decade,DATE,,,en,1.0
 Republicans,Republicans,NORP,,,en,1.0
 Schematic,Schematic,PRODUCT,,,en,1.0
@@ -1977,21 +1977,21 @@ nearly a third,nearly a third,CARDINAL,,,en,1.0
 At least four,At least four,CARDINAL,,,en,1.0
 +5833 chars,+5833 chars,WORK_OF_ART,,,en,1.0
 Round 1,Round 1,FAC,,,en,1.0
-Nearly 100,Nearly 100,CARDINAL,,,en,1.0
+TechCrunch,TechCrunch,PRODUCT,,,en,1.0
 "around 5,120","around 5,120",CARDINAL,,,en,1.0
-the weeks ahead,the weeks ahead,DATE,,,en,1.0
+111 degrees,111 degrees,QUANTITY,,,en,1.0
 "over 2,700","over 2,700",CARDINAL,,,en,1.0
 as low as 80°,as low as 80°,PERCENT,,,en,1.0
+the weeks ahead,the weeks ahead,DATE,,,en,1.0
 42nd Street,42nd Street,FAC,,,en,1.0
 Times Square,Times Square,FAC,,,en,1.0
 +4400 chars,+4400 chars,WORK_OF_ART,,,en,1.0
 Sunday Billings,Sunday Billings,DATE,,,en,1.0
-111 degrees,111 degrees,QUANTITY,,,en,1.0
 coming weeks,coming weeks,DATE,,,en,1.0
 Six-week,Six-week,DATE,,,en,1.0
 +1839 chars,+1839 chars,WORK_OF_ART,,,en,1.0
-nearly 44 degrees Celsius,nearly 44 degrees Celsius,QUANTITY,,,en,1.0
 five-year,five-year,DATE,,,en,1.0
+nearly 44 degrees Celsius,nearly 44 degrees Celsius,QUANTITY,,,en,1.0
 billions of nanoplastic,billions of nanoplastic,MONEY,,,en,1.0
 last night's,last night's,TIME,,,en,1.0
 a couple of minutes,a couple of minutes,TIME,,,en,1.0
@@ -2000,9 +2000,9 @@ Jul 13,Jul 13,DATE,,,en,1.0
 60-75,60-75,CARDINAL,,,en,1.0
 Beauvoir Summer Camp,Beauvoir Summer Camp,FAC,,,en,1.0
 109 degrees Fahrenheit,109 degrees Fahrenheit,QUANTITY,,,en,1.0
-TechCrunch,TechCrunch,PRODUCT,,,en,1.0
 Last weekend's,Last weekend's,DATE,,,en,1.0
 seven-year-old,seven-year-old,DATE,,,en,1.0
+Nearly 100,Nearly 100,CARDINAL,,,en,1.0
 Ninja Slushi Twist,Ninja Slushi Twist,PRODUCT,,,en,1.0
 Last weekends,Last weekends,DATE,,,en,1.0
 "more than 2,700","more than 2,700",CARDINAL,,,en,1.0
@@ -2771,10 +2771,10 @@ Oct. 29,Oct. 29,DATE,,,en,1.0
 Hurricane Melissa Show,Hurricane Melissa Show,EVENT,,,en,1.0
 October 28,October 28,DATE,,,en,1.0
 Indulgent ‘Conclave’ Follow-Up Starring Colin Farrell as a Hopeless Gambling Addict,Indulgent ‘Conclave’ Follow-Up Starring Colin Farrell as a Hopeless Gambling Addict,WORK_OF_ART,,,en,1.0
-1934,1934,DATE,,,en,1.0
-the King Cole Bar,the King Cole Bar,PRODUCT,,,en,1.0
 2017-01900,2017-01900,DATE,,,en,1.0
 2023-00988,2023-00988,DATE,,,en,1.0
+1934,1934,DATE,,,en,1.0
+the King Cole Bar,the King Cole Bar,PRODUCT,,,en,1.0
 about $9 million,about $9 million,MONEY,,,en,1.0
 one-third,one-third,CARDINAL,,,en,1.0
 Almost one-third,Almost one-third,CARDINAL,,,en,1.0
@@ -2951,7 +2951,6 @@ the turn of the 20th century,the turn of the 20th century,DATE,,,en,1.0
 AT1 Enduro 125,AT1 Enduro 125,PRODUCT,,,en,1.0
 +3101 chars,+3101 chars,WORK_OF_ART,,,en,1.0
 over two decades,over two decades,DATE,,,en,1.0
-the fourth year,the fourth year,DATE,,,en,1.0
 Ru,Ru,LAW,,,en,1.0
 55%,55%,PERCENT,,,en,1.0
 C6,C6,PRODUCT,,,en,1.0
@@ -2959,6 +2958,7 @@ anatase,anatase,NORP,,,en,1.0
 5h,5h,CARDINAL,,,en,1.0
 773,773,CARDINAL,,,en,1.0
 2017;22:5365,2017;22:5365,CARDINAL,,,en,1.0
+the fourth year,the fourth year,DATE,,,en,1.0
 ten years ago,ten years ago,DATE,,,en,1.0
 Nov 10,Nov 10,DATE,,,en,1.0
 +2956 chars,+2956 chars,WORK_OF_ART,,,en,1.0
@@ -3459,11 +3459,11 @@ Last Friday,Last Friday,DATE,,,en,1.0
 75°,75°,QUANTITY,,,en,1.0
 82°,82°,QUANTITY,,,en,1.0
 Albertas,Albertas,NORP,0.04999999999999999,0.44999999999999996,en,1.0
+several years,several years,DATE,,,en,1.0
+360364,360364,CARDINAL,,,en,1.0
 M.,M.,NORP,,,en,1.0
 Hadean,Hadean,NORP,,,en,1.0
 493496,493496,DATE,,,en,1.0
-several years,several years,DATE,,,en,1.0
-360364,360364,CARDINAL,,,en,1.0
 5 years,5 years,DATE,,,en,1.0
 30.9°C,30.9°C,MONEY,,,en,1.0
 about 6.5,about 6.5,CARDINAL,,,en,1.0
@@ -3654,14 +3654,14 @@ Thur,Thur,DATE,,,en,1.0
 Record Heat,Record Heat,WORK_OF_ART,,,en,1.0
 more than 41 million,more than 41 million,CARDINAL,,,en,1.0
 +10288 chars,+10288 chars,WORK_OF_ART,,,en,1.0
-Handb,Handb,WORK_OF_ART,,,en,1.0
+343,343,CARDINAL,,,en,1.0
 535545,535545,DATE,,,en,1.0
-Goeritz,Goeritz,NORP,,,en,1.0
+2829,2829,CARDINAL,,,en,1.0
 the past few months,the past few months,DATE,,,en,1.0
 prior year,prior year,DATE,,,en,1.0
+early summer,early summer,DATE,,,en,1.0
 a hot week ahead,a hot week ahead,DATE,,,en,1.0
 20-30 degrees,20-30 degrees,QUANTITY,,,en,1.0
-early summer,early summer,DATE,,,en,1.0
 the past 3 million years,the past 3 million years,DATE,,,en,1.0
 At least 1,At least 1,CARDINAL,,,en,1.0
 "nearly 800,000 acres","nearly 800,000 acres",QUANTITY,,,en,1.0
@@ -3724,8 +3724,8 @@ all seasons,all seasons,DATE,,,en,1.0
 Bikini Bullshit,Bikini Bullshit,WORK_OF_ART,,,en,1.0
 The Sun,The Sun,WORK_OF_ART,,,en,1.0
 hundreds of kilometres,hundreds of kilometres,QUANTITY,,,en,1.0
-343,343,CARDINAL,,,en,1.0
-2829,2829,CARDINAL,,,en,1.0
+Goeritz,Goeritz,NORP,,,en,1.0
+Handb,Handb,WORK_OF_ART,,,en,1.0
 +6412 chars,+6412 chars,WORK_OF_ART,,,en,1.0
 +8146 chars,+8146 chars,WORK_OF_ART,,,en,1.0
 TGF-β1,TGF-β1,PRODUCT,,,en,1.0
@@ -3735,9 +3735,9 @@ mid-to-late March,mid-to-late March,DATE,,,en,1.0
 "more than 2,000","more than 2,000",CARDINAL,,,en,1.0
 June 2025,June 2025,DATE,,,en,1.0
 The past three years,The past three years,DATE,,,en,1.0
++20024,+20024,NORP,,,en,1.0
 Vaishnav,Vaishnav,NORP,,,en,1.0
 P.,P.,NORP,0.0,0.0,en,1.0
-+20024,+20024,NORP,,,en,1.0
 126-110,126-110,PRODUCT,,,en,1.0
 126,126,CARDINAL,,,en,1.0
 38.9,38.9,CARDINAL,,,en,1.0
